@@ -2,21 +2,19 @@
 코딩테스트 학습과 기록을 위한 레포
 
 🧩 폴더 구조
- ┣ 📁 baekjoon/
- 
- ┣ 📁 programmers/
 
+ ┣ 📁 baekjoon/
+ ┣ 📁 programmers/
  ┣ 📁 Book/
- 
  ┗ README.md
 
- ✏️ 문제 파일 템플릿
- site Programmers
- id: 1000
- title: 거스름 돈
- lang: Python
- tags: BFS, DFS
- 난이도: LV.3
+##✏️ 문제 파일 템플릿
+- site Programmers
+-  id: 1000
+-  title: 거스름 돈
+-  lang: Python
+-  tags: BFS, DFS
+-  난이도: LV.3
  
 
 ## 🚀 접근 방식
