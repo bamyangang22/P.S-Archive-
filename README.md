@@ -11,14 +11,13 @@
  ┗ README.md
 
  ✏️ 문제 파일 템플릿
- ---
-site: Baekjoon
-id: 1000
-title: A+B
-lang: python
-tags: [implementation, io]
-difficulty: Bronze
----
+ site Programmers
+ id: 1000
+ title: 거스름 돈
+ lang: Python
+ tags: BFS, DFS
+ 난이도: LV.3
+ 
 
 ## 🚀 접근 방식
 - 입력값을 공백 기준으로 분리
